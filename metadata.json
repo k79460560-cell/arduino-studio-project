@@ -1,0 +1,6 @@
+{
+  "name": "أستوديو الأردوينو الذكي - Arduino AI Studio",
+  "description": "منصة متطورة وشاملة لمشاريع الأردوينو والميكاترونكس باللغة العربية مع توليد مشاريع ذكية وتشخيص فوري للأخطاء وأدوات هندسية متكاملة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
